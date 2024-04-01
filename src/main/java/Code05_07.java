@@ -20,6 +20,6 @@ public class Code05_07 {
                     if (score >= 60)
                         System.out.print("D");
                     else
-                        System.out.print("F95");
+                        System.out.print("F");
     }
 }
